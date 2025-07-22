@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+llama-index-core
+llama-index-readers-file
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+python-multipart 
